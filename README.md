@@ -1,9 +1,5 @@
----
-title: "Getting and Cleaning Data Course Project"
-author: "Jerry Weimer"
-date: "July 24, 2017"
-output: html_document
----
+# Getting and Cleaning Data Course Project
+
 
 ## Description
 
