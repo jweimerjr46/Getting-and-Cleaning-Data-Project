@@ -1,3 +1,5 @@
+## Jerry Weimer
+## R version 3.4.0 (2017-04-21)
 ## Merge the training and test sets to create one data set.
 # set working directory to "UCI HAR Dataset" folder from unzipped file.
 library(plyr)
