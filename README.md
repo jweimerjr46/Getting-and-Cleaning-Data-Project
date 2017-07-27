@@ -5,6 +5,13 @@
 
 The purpose of the R script (run_analysis.R) is to create a tidy data set from multiple raw data sets. The raw data sets consist of accelerometer data from Samsung Galaxy S smartphones while subjects performed various activities. Complete variable descriptions can be found in the CodeBook.md file. 
 
+## Files in Repository
+
+- **README.md**: this file
+- **CodeBook.md**: description of data and script
+- **run_analysis.R**: script to create tidy data set.
+- **tidydata.txt**: tidy data set
+
 ## Data Source
 
 The acclerometer data was obtained from:  
