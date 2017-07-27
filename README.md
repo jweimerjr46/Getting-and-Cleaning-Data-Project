@@ -16,7 +16,7 @@ The purpose of the R script (run_analysis.R) is to create a tidy data set from m
 
 The acclerometer data was obtained from:  
 
-<https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>. 
+<https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
 
 A complete description of the datasets contained in the ZIP file can be found at: 
